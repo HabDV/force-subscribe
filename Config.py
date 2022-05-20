@@ -30,7 +30,7 @@ class Messages():
         
         "**Commmands**\n__/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn of ForceSubscribe.\n/ForceSubscribe {channel username} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\nNote: /FSub is an alias of /ForceSubscribe__",
         
-        "**Developed by @viperadnan**"
+        "**Bot admin @ig_ovosh**"
       ]
 
-      START_MSG = "**Привет [{}](tg://user?id={})**\n__Я могу заставить участников группы присоединиться к определенному каналу, прежде чем они смогут писать сообщения в чате.\nЧекайте подробности /help__"
+      START_MSG = "**Привет [{}](tg://user?id={})**\n\n__Я могу заставить участников группы присоединиться к определенному каналу, прежде чем они смогут писать сообщения в чате.\n\nЧекайте подробности /help__"
