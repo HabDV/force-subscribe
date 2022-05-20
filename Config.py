@@ -33,4 +33,4 @@ class Messages():
         "**Developed by @viperadnan**"
       ]
 
-      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help__"
+      START_MSG = "**Привет [{}](tg://user?id={})**\n__Я могу заставить участников группы присоединиться к определенному каналу, прежде чем они смогут писать сообщения в чате.\nЧекайте подробности /help__"
