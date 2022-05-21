@@ -3,10 +3,11 @@
 - Find it on Telegram as [Promoter](https://t.me/ForceSubscribeBot)
 
 ## Todo
-- [ ] Add multiple channels support
-- [X] Configure different groups with different channels
-- [X] Clean messages after completion
-- [ ] LOGGER support.
+- [ ] Добавить поддержку нескольких каналов
+- [X] Настройте разные группы с разными каналами
+- [X] Чистые сообщения после завершения
+- [X] Русифицировать
+- [ ] Поддержка ЛОГЕРА.
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HabDV/force-subscribe)
