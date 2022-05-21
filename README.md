@@ -2,39 +2,8 @@
 **Telegram бот, заставляющий пользователей присоединяться к определенному каналу перед отправкой сообщений в группе.**
 - Find it on Telegram as [Promoter](https://t.me/ForceSubscribeBot)
 
-## Todo
-- [ ] Добавить поддержку нескольких каналов
-- [X] Настройте разные группы с разными каналами
-- [X] Чистые сообщения после завершения
-- [X] Русифицировать
-- [ ] Поддержка ЛОГЕРА.
-
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HabDV/force-subscribe)
-
-
-### Installation
-- Clone this repo
-```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
-```
-- Change directory
-```
-cd force-subscribe-telegram-bot
-```
-- Install requirements
-```
-pip3 install -r requirements.txt
-```
-
-### Configuration
-Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps), [BOT_TOKEN](https://t.me/botfather) in [Config.py](Config.py) or in Environment Variables.
-
-### Deploying
-- Run bot.py
-```
-python3 bot.py
-```
 
 ## Thanks to
 - [PyroGram](https://PyroGram.org)
